@@ -49,8 +49,7 @@
 ---
 
 ## 🌱 Long-term Vision
-> I aspire to become a multi-disciplinary design specialist who deeply bridges cutting-edge service design, user experience, and meaningful brand product narratives. My long-term goal is to transform lifestyle concepts—like psychological wellness and circular sustainability—into impactful digital solutions and real-world products. Ultimately, I hope to craft design systems that promote human-centered empathy, social equity, and holistic well-being for all.
-
+> I aspire to become a multi-disciplinary design specialist who deeply bridges cutting-edge service design, user experience, and meaningful brand product narratives. My long-term goal is to transform lifestyle concepts—like psychological wellness and circular sustainability—into impactful digital solutions and real-world products. 
 ---
 
 ## 👨🏻‍💻 Typography, Languages and Tools
